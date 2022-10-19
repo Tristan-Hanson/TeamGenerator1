@@ -1,0 +1,15 @@
+{
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
